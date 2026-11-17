@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* You can add global styles to this file, and also import other style files */
+
+.app-page-bg {
+  background: linear-gradient(180deg, #e5ecff 50%, #d5f7ff 100%);
+  min-height: 100vh;
+}
